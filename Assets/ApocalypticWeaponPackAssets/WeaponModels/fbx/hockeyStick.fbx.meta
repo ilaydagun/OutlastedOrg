@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 1b2aa86ea9dea408ba751a89603a98ee
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: apocalypseWeaponHStick1_1
+    100002: Batteries
+    100004: //RootNode
+    100006: MetalHead
+    100008: nail
+    100010: sawBlade
+    100012: Wires
+    100014: Wraps
+    400000: apocalypseWeaponHStick1_1
+    400002: Batteries
+    400004: //RootNode
+    400006: MetalHead
+    400008: nail
+    400010: sawBlade
+    400012: Wires
+    400014: Wraps
+    2100000: apocalypseWeaponHStick1_1
+    2100002: Wraps
+    2100004: sawBlade
+    2100006: nail
+    2100008: Batteries
+    2100010: MetalHead
+    2100012: Wires
+    2300000: apocalypseWeaponHStick1_1
+    2300002: Batteries
+    2300004: MetalHead
+    2300006: nail
+    2300008: sawBlade
+    2300010: Wires
+    2300012: Wraps
+    3300000: apocalypseWeaponHStick1_1
+    3300002: Batteries
+    3300004: MetalHead
+    3300006: nail
+    3300008: sawBlade
+    3300010: Wires
+    3300012: Wraps
+    4300000: apocalypseWeaponHStick1_1
+    4300002: Wraps
+    4300004: sawBlade
+    4300006: nail
+    4300008: Batteries
+    4300010: MetalHead
+    4300012: Wires
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Batteries
+    second: {fileID: 2100000, guid: 98c368e4117a14d82abc2aa932a65de0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalHead
+    second: {fileID: 2100000, guid: 47173ffefad37443e868a551a7d751ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wires
+    second: {fileID: 2100000, guid: 691403d535e334babaa86b93d49b6044, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wraps
+    second: {fileID: 2100000, guid: 3ef34aa36eda1456f826bd0a3a43a454, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: apocalypseWeaponHStick1_1
+    second: {fileID: 2100000, guid: 447f19b647a5e4449be28b97dcb1b80b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nail
+    second: {fileID: 2100000, guid: 7e144fc81e0964c46a0e74b9daad92ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sawBlade
+    second: {fileID: 2100000, guid: 6e5fab3f55b924853b527a6f8992afb7, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150743
+  packageName: Apocalyptic Weapon Pack
+  packageVersion: 1.0
+  assetPath: Assets/ApocalypticWeaponPackAssets/WeaponModels/fbx/hockeyStick.fbx
+  uploadId: 321330

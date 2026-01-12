@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6805073324047361292
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7395979144451719689}
+  - component: {fileID: 8809847530414910439}
+  m_Layer: 0
+  m_Name: BaseballBat
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7395979144451719689
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6805073324047361292}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -2.71224, y: -0.10002, z: 0.33376}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5269609096906707074}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8809847530414910439
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6805073324047361292}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91fc05961920349f481fe6e98fe0e04e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MeleeWeapon
+  damage: 25
+  attackRange: 2
+  attackCooldown: 0.8
+  hitTime: 0.3
+  attackPoint: {fileID: 0}
+  enemyLayer:
+    serializedVersion: 2
+    m_Bits: 0
+  enemyTag: Enemy
+  weaponModel: {fileID: 0}
+  weaponHolder: {fileID: 0}
+--- !u!1001 &5668854288021452649
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 7395979144451719689}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 9bda86a1d4b514bf595d8da9bc493a3c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -83.308556
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9bda86a1d4b514bf595d8da9bc493a3c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.07213
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9bda86a1d4b514bf595d8da9bc493a3c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 10.2517395
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9bda86a1d4b514bf595d8da9bc493a3c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9bda86a1d4b514bf595d8da9bc493a3c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9bda86a1d4b514bf595d8da9bc493a3c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9bda86a1d4b514bf595d8da9bc493a3c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9bda86a1d4b514bf595d8da9bc493a3c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9bda86a1d4b514bf595d8da9bc493a3c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9bda86a1d4b514bf595d8da9bc493a3c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9bda86a1d4b514bf595d8da9bc493a3c, type: 3}
+      propertyPath: m_Name
+      value: baseballBatNail_Final
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9bda86a1d4b514bf595d8da9bc493a3c, type: 3}
+--- !u!4 &5269609096906707074 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 9bda86a1d4b514bf595d8da9bc493a3c, type: 3}
+  m_PrefabInstance: {fileID: 5668854288021452649}
+  m_PrefabAsset: {fileID: 0}

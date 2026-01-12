@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: f61bb8d56284645e1ba64b9eba4b1921
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: apocalypseWeaponPipeBasic
+    100002: apocalypseWeaponPipeBoltEnd
+    100004: apocalypseWeaponPipeBoltEnd1_1
+    100006: apocalypseWeaponPipeCapEnd
+    100008: apocalypseWeaponPipeConnector1
+    100010: apocalypseWeaponPipeElbow
+    100012: //RootNode
+    100014: ScrewObj
+    400000: apocalypseWeaponPipeBasic
+    400002: apocalypseWeaponPipeBoltEnd
+    400004: apocalypseWeaponPipeBoltEnd1_1
+    400006: apocalypseWeaponPipeCapEnd
+    400008: apocalypseWeaponPipeConnector1
+    400010: apocalypseWeaponPipeElbow
+    400012: //RootNode
+    400014: ScrewObj
+    2100000: apocalypseWeaponPipeBoltEnd
+    2100002: apocalypseWeaponPipeBoltEnd1_1
+    2100004: ScrewObj
+    2100006: apocalypseWeaponPipeCapEnd
+    2100008: apocalypseWeaponPipeConnector1
+    2100010: apocalypseWeaponPipeElbow
+    2100012: apocalypseWeaponPipeBasic
+    2300000: apocalypseWeaponPipeBasic
+    2300002: apocalypseWeaponPipeBoltEnd
+    2300004: apocalypseWeaponPipeBoltEnd1_1
+    2300006: apocalypseWeaponPipeCapEnd
+    2300008: apocalypseWeaponPipeConnector1
+    2300010: apocalypseWeaponPipeElbow
+    2300012: ScrewObj
+    3300000: apocalypseWeaponPipeBasic
+    3300002: apocalypseWeaponPipeBoltEnd
+    3300004: apocalypseWeaponPipeBoltEnd1_1
+    3300006: apocalypseWeaponPipeCapEnd
+    3300008: apocalypseWeaponPipeConnector1
+    3300010: apocalypseWeaponPipeElbow
+    3300012: ScrewObj
+    4300000: apocalypseWeaponPipeBoltEnd
+    4300002: apocalypseWeaponPipeBoltEnd1_1
+    4300004: ScrewObj
+    4300006: apocalypseWeaponPipeCapEnd
+    4300008: apocalypseWeaponPipeConnector1
+    4300010: apocalypseWeaponPipeElbow
+    4300012: apocalypseWeaponPipeBasic
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ScrewObj
+    second: {fileID: 2100000, guid: 35ad073e782144ef190686ac835dd95a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: apocalypseWeaponPipeBasic
+    second: {fileID: 2100000, guid: 7102f40fde75949529150af3e818365e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: apocalypseWeaponPipeBoltEnd
+    second: {fileID: 2100000, guid: 0e0604e3dbb4947bdb37ae0eb09e0201, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: apocalypseWeaponPipeBoltEnd1_1
+    second: {fileID: 2100000, guid: 5d0c40d81de064f0d88c736cf7a1f4e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: apocalypseWeaponPipeCapEnd
+    second: {fileID: 2100000, guid: cd43a7e52aa264262a8ba06296f79704, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: apocalypseWeaponPipeConnector1
+    second: {fileID: 2100000, guid: b109dedbc51574df5af24b6aa7738a9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: apocalypseWeaponPipeElbow
+    second: {fileID: 2100000, guid: 6bd41506d06b94c49bdaa0268613ba6d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150743
+  packageName: Apocalyptic Weapon Pack
+  packageVersion: 1.0
+  assetPath: Assets/ApocalypticWeaponPackAssets/WeaponModels/fbx/pipeWeapon.fbx
+  uploadId: 321330
